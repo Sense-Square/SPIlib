@@ -1,1 +1,1 @@
-# SPIlib
+# SPI
